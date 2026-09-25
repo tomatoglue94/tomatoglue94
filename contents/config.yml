@@ -19,10 +19,10 @@ sections:
     title: User Name&ensp;|&ensp;阮颢宁
     href: '#page-top' # Default to '#<id>' if not specified
   - id: publications
-    nav: PUBLICATIONS
-    title: PUBLICATIONS
+    nav: 发表
+    title: 发表
     icon: bi-file-text-fill
   - id: awards
-    nav: AWARDS
-    title: AWARDS
+    nav: 成就
+    title: 成就
     icon: bi-award-fill
