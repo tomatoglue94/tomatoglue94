@@ -15,14 +15,14 @@ license-link:
   href: https://github.com/tomatoglue94/tomatoglue94/blob/main/LICENSE
 sections:
   - id: home
-    nav: HOME
-    title: User Name&ensp;|&ensp;阮颢宁
+    nav: 首页
+    title: Haoning Ruan&ensp;|&ensp;阮颢宁
     href: '#page-top' # Default to '#<id>' if not specified
   - id: publications
-    nav: 发表
-    title: 发表
+    nav: 成果
+    title: 成果
     icon: bi-file-text-fill
   - id: awards
-    nav: 成就
-    title: 成就
+    nav: 奖项
+    title: 奖项
     icon: bi-award-fill
