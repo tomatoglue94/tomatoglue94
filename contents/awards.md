@@ -1,12 +1,8 @@
 
-- Outstanding Graduate Award (CUMT), 2025.
+- 广州市高中物理联赛二等奖,2024
 
-- National Scholarship for Graduate Students (Ministry of Education, China), 2024.
+- "语文报杯·时代新人说”全国中学生征文大赛省级三等奖,2024
 
-- First-Prize Graduate Academic Scholarship (CUMT), 2023 & 2024.
+- ICC高中生创新能力大赛省级二等奖，2025
 
-- Outstanding Undergraduate Thesis Award (Jiangsu, China), 2022.
 
-- First-Prize Corporate Scholarship (CUMT), 2020.
-
-- First-Prize Undergraduate Academic Scholarship (CUMT), 2019.
